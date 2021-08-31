@@ -8,7 +8,7 @@ package days1;
 public class Day009 {
 	public static void main(String[] args) {
 		System.out.println(isPalindrome(12521));
-		System.out.println(isPalindrome(1246421));
+		System.out.println(isPalindrome2(1246421));
 	}
 
 	public static boolean isPalindrome(int x) {
