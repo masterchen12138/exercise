@@ -4,6 +4,7 @@ package days1;
  * @author Yec
  * @date 2021-08-26
  * 测试
+ * 万恶之源
  */
 public class Day000 {
 	public static void main(String[] args) {
